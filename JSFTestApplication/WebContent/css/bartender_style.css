@@ -1,0 +1,216 @@
+.rich-ddmenu-label-select {
+      background-color: #666;
+      border-color: #FDFDFD;
+}
+.menu_button {
+	font-size: 12px;
+	font-weight: bold;
+	font-family: GE Inspira;
+	border: 0;
+	cursor: hand;
+	height: 13px;
+}
+.menuStyle{
+	background-color: #3B73B9;
+		font-weight: normal;
+}
+.menuStyle1 {
+      height: 2px;
+      BACKGROUND-COLOR: #3B73B9;
+}
+
+.menuitemclass {
+	border-color: #FDFDFD;
+	color: #FDFDFD;
+}
+.menuSelect{
+	background-color: #5D5D5D;
+	border-color: white;
+}
+.menuGrayBg {
+	background-image: url(../images/gray.bmp);
+	border:0
+}
+.rich-menu-list-bg {
+	background-color: #969696;
+}
+.rich-menu-list-strut {
+	background-color: #969696;
+}
+
+.gray_text {
+	FONT-SIZE: 12px;
+	COLOR:#585858;
+	FONT-FAMILY: GE Inspira, Arial;
+	TEXT-DECORATION: none;
+}
+
+.header_text {
+	font-family: GE Inspira, Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #4A77D0;
+	height: 25;
+	text-align: left;
+	cursor: hand;
+	text-decoration: none;
+}
+
+.jsf-output-link-black{
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: GE Inspira, Arial; TEXT-DECORATION: underline;FONT-WEIGHT: bold
+}
+
+.jsf-output-link{
+	FONT-SIZE: 12px; COLOR: blue; FONT-FAMILY: GE Inspira, Arial; TEXT-DECORATION: underline;
+}
+
+.menutextFont {
+	font-weight: bold;
+	FONT-FAMILY: GE Inspira;
+	FONT-SIZE: 12px;
+	color: #FFFFFF;
+}
+
+.jsf-output-text{
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: GE Inspira, Arial; TEXT-DECORATION: none;FONT-WEIGHT: bold;
+}
+
+.jsf-output-value{
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: GE Inspira, Arial; TEXT-DECORATION: none;
+}
+
+.jsf-output-header{
+	FONT-FAMILY: GE Inspira, Arial; 
+	FONT-SIZE: 12px; 
+	FONT-WEIGHT: bold; 
+	COLOR: #FFFFFF
+}
+
+.button {
+	border-bottom: 1px solid #1B4CAC;
+	border-left: 1px solid #1B4CAC;
+	border-right: 1px solid #1B4CAC;
+	border-top: 1px solid #1B4CAC;
+	color: #FFFFFF;
+	height: 18px;
+	font-weight: bold;
+	background-color: #F9F9FB;
+	background-image: url(../images/button_bg.gif);
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	font-size: 12px;
+	font-family: GE Inspira, Arial, Verdana, Helvetica, sans-serif;
+}
+.alterNate1 {
+	FONT-WEIGHT: 100;
+	FONT-SIZE: 12px;
+	COLOR: #000000;
+	FONT-FAMILY: GE Inspira, Arial;
+	BACKGROUND-COLOR: #EFF3FC;
+	TEXT-DECORATION: none
+}
+
+.alterNate2 {
+	FONT-WEIGHT: 100;
+	FONT-SIZE: 12px;
+	COLOR: #000000;
+	FONT-FAMILY: GE Inspira, Arial;
+	BACKGROUND-COLOR: #ffffff;
+	TEXT-DECORATION: none
+}
+.table_header {
+	text-align: center;
+	vertical-align: center;
+	FONT-WEIGHT: 600;
+	FONT-SIZE: 12px;
+	COLOR: white;
+	FONT-FAMILY: GE Inspira, Arial;
+	BACKGROUND-COLOR: #3B73B9;
+	TEXT-DECORATION: none
+}
+.column_class3 {
+	text-align: right;
+}
+
+.column_class4 {
+	text-align: left;
+}
+.column_class5 {
+	text-align: center;
+}
+
+.column_class300 {
+	width: 30%;
+	background-color:#F2F2F2;
+	text-align: left;
+	FONT-SIZE: 12px;
+	COLOR: #000000;
+	FONT-FAMILY: GE Inspira, Arial;
+	TEXT-DECORATION: none;
+	FONT-WEIGHT: bold
+	VERTICAL-ALIGN:top;
+}
+
+.column_class600 {
+	width: 60%;
+	background-color:#F2F2F2;
+	text-align: left;
+	FONT-SIZE: 12px;
+	COLOR: #000000;
+	FONT-FAMILY: GE Inspira, Arial;
+	TEXT-DECORATION: none;
+	FONT-WEIGHT: bold
+	VERTICAL-ALIGN:top;
+}
+
+.panel_class {
+	VERTICAL-ALIGN:top;
+	height: 250px;
+	width: 400px;
+	overflow:scroll;	
+}
+.wide_panel_class {
+	VERTICAL-ALIGN:top;
+	height: 500px;
+	width: 800px;
+	overflow:scroll;	
+}
+
+.wide_panel_class_result {
+	VERTICAL-ALIGN:top;
+	height: 50%;
+	width: 67%;
+	overflow:scroll;	
+}
+
+.header_comment{
+	FONT-SIZE: 14px; FONT-FAMILY: GE Inspira, Arial; TEXT-DECORATION: none;FONT-WEIGHT: bold;COLOR: #8c8cb8;BACKGROUND-COLOR: #FFFFFF;
+}
+
+.invisible_table {
+	border-color : #F2F2F2;
+	background-color : #F2F2F2;
+}
+
+.part_panel_class{
+	VERTICAL-ALIGN:top;
+	height: 250px;
+	width: 1200px;
+	overflow:scroll;
+}
+
+.main-header-bg {
+	border-color : #B6B6B6;
+	background-color : #8c8cb8;
+	width : 100%; 
+}
+
+.main-header {
+	font-family: GE Inspira, Arial; 
+	font-size: 12px; 
+	font-weight: bold; 
+	color: #FFFFFF;
+	text-align: left;
+	width : 100%;
+}
